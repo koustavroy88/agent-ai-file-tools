@@ -19,3 +19,11 @@ This repository contains my learning work from AI agent tutorials.
 
 ```bash
 pip install -r requirements.txt
+
+## Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
+GOOGLE_API_KEY=your_google_api_key_here
